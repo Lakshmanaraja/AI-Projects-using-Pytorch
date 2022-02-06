@@ -1,4 +1,4 @@
-# Illustrating Neural Image Transfer using Pytorch
+# Illustrating Neural Style Transfer using Pytorch
 
 This project is inspired from Guided project in Coursera and Documentation in Pytorch
 
